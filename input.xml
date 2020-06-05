@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order created='2011-05-12T14:31:29.000' ID='6562'>
+        <product>
+            <description>Samsung Internet Tv</description>
+            <gtin>000372</gtin>
+            <price currency="USD">1989.99</price>
+            <supplier>Samsung</supplier>
+        </product>
+        <product>
+            <description>Apple iPad 2 32GB Black</description>
+            <gtin>00729</gtin>
+            <price currency="USD">239.0</price>
+            <supplier>Apple</supplier>
+        </product>
+        <product>
+            <description>Samsung Video MP3 Player Black</description>
+            <gtin>000338</gtin>
+            <price currency="USD">84.99</price>
+            <supplier>Samsung</supplier>
+        </product>
+    </order>
+    <order created='2011-05-13T15:03:21.000' ID='4424'>
+        <product>
+            <description>Apple MacBook</description>
+            <gtin>008659</gtin>
+            <price currency="USD">1123.0</price>
+            <supplier>Apple</supplier>
+        </product>
+        <product>
+            <description>Dell LED HDTV</description>
+            <gtin>008876</gtin>
+            <price currency="USD">849.99</price>
+            <supplier>Dell</supplier>
+        </product>
+        <product>
+            <description>Samsung Z231</description>
+            <gtin>008231</gtin>
+            <price currency="USD">249.99</price>
+            <supplier>Samsung</supplier>
+        </product>
+    </order>
+</orders>

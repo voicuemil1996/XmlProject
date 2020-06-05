@@ -1,5 +1,5 @@
 
-package pss_technical_exercise;
+package XmlProcessor;
 
 import java.io.File;
 import java.util.ArrayList;

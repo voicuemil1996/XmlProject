@@ -1,5 +1,5 @@
 
-package pss_technical_exercise;
+package XmlProcessor;
 
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.DocumentBuilder;
