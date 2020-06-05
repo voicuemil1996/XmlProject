@@ -1,6 +1,6 @@
 Purpose of the app:
 	
-	The task description is presented in the TestJava.doc file.
+	It takes some input xml files with a specific elements and depending of the number of Suppliers founded in the input it creates as 	   many outputs that contains the corresponding characteristics (also founded in the input file).
 
 
 Solution description:
@@ -18,3 +18,4 @@ Solution description:
 				in the end it writes the output files
 		-XmlProcessor -> firstly it uses a search method to get the valid input files. After that, for each input found it uses
 			       XmlCreator in order to get the output files
+		
