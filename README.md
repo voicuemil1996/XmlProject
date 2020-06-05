@@ -3,6 +3,7 @@ Purpose of the app:
 	
 	It takes some input xml files with a specific elements and depending of the number of Suppliers founded in the input it creates 
 	as many outputs that contains the corresponding characteristics (also founded in the input file).
+	An example of input file is order13.xml
 
 Solution description:
 
